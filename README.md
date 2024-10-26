@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is an implementation of a Binary Search Tree with lazy deletion, where nodes are logically marked as deleted instead of being physically removed. It includes methods to insert, delete, find the minimum and maximum elements, check for element existence, and print its elements.
+This is an implementation of a Binary Search Tree with lazy deletion, where nodes are logically marked as deleted instead of being physically removed. It includes methods to insert, delete, find the minimum and maximum elements, check if an element exists, and print tree nodes.
 
 ## Java Version
 
